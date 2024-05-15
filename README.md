@@ -1,1 +1,1 @@
-# marketing_analytics_logistic_regressio
+# marketing_analytics_logistic_regression
